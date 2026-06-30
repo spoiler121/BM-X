@@ -7,16 +7,16 @@
 <h1 align="center">⚡ BM-X MD</h1>
 
 <p align="center">
-  <i>An Opensource WhatsApp bot by <a href="https://github.com/FantoX">FantoX</a> & Team BM-X — built with Baileys Multi-Device for maximum features, stability and compatibility.</i>
+  <i>An Opensource WhatsApp bot by <a href="https://github.com/spoiler121/BM-X">FantoX</a> & Team BM-X — built with Baileys Multi-Device for maximum features, stability and compatibility.</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/FantoX/BM-X/fork">
-    <img src="https://img.shields.io/github/forks/FantoX/BM-X-MD?label=Fork&style=social">
+  <a href="https://github.com/spoiler121/BM-X/fork">
+    <img src="https:///BM-X-MD?label=Fork&style=social">
   </a>
   &nbsp;
   <a href="https://github.com/spoiler121/BM-X/BM-X/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX/BM-X?style=social">
+    <img src="https://github.com/spoiler121/BM-X/BM-X?style=social">
   </a>
 </p>
 
@@ -269,14 +269,14 @@ PRs are welcome! Personal re-branding / bot-name-change PRs will **not** be merg
 
 | [![Fantox](https://github.com/FantoX.png)](https://github.com/FantoX) | [![AYUSH](https://github.com/AYUSH-PANDEY023.png)](https://github.com/AYUSH-PANDEY023) | [![RA-ONE](https://github.com/7thRA-ONE.png)](https://github.com/7thRA-ONE) | [![Sten-X](https://github.com/Sten-X.png)](https://github.com/Sten-X) |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [FantoX](https://github.com/FantoX)                                   | [AYUSH-PANDEY023](https://github.com/AYUSH-PANDEY023)                                  | [7thRA-ONE](https://github.com/7thRA-ONE)                                   | [Sten-X](https://github.com/Sten-X)                                   |
+| [BM-X](https://github.com/spoiler121/BM-X)                                   | [AYUSH-PANDEY023](https://github.com/AYUSH-PANDEY023)                                  | [BM-X](https://github.com/spoiler121/BM-X)                                   |[BM-X](https://github.com/spoiler121/BM-X-X)                                   |
 | Owner, Main Developer, Maintainer                                     | Ideas, Testing                                                                         | Support Developer, Maintainer                                               | Support Developer, Maintainer (API)                                   |
 
 <br>
 
 <h3 align="center">Legacy Contributors</h3>
 
-| [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) |
+| [spoile121](https://github.com/spoiler121/BM-X) |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Ahmii-kun](https://github.com/Ahmii-kun)                                      | [pratyush4932](https://github.com/pratyush4932)                                     | [Devime69](https://github.com/Devime69)                                   |
+| [spoiler121](https://github.com/spoiler121/BM-X)                                      | [pra)                                     | )                                   |
 | Support Developer (Old)                                                        | Support Developer (Old)                                                             | API Maintainer (Old)                                                      |
