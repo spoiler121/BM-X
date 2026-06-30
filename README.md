@@ -10,9 +10,9 @@
   <i>An Opensource WhatsApp bot by <a href="https://github.com/spoiler121/BM-X">FantoX</a> & Team BM-X — built with Baileys Multi-Device for maximum features, stability and compatibility.</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/spoiler121/BM-X/fork">
-    <img src="https:///BM-X-MD?label=Fork&style=social">
+
+  <a ="https://github.com/spoiler121/BM-X/fork">
+    <img src=
   </a>
   &nbsp;
   <a href="https://github.com/spoiler121/BM-X/BM-X/stargazers">
@@ -269,7 +269,7 @@ PRs are welcome! Personal re-branding / bot-name-change PRs will **not** be merg
 
 | [![Fantox](https://github.com/FantoX.png)](https://github.com/FantoX) | [![AYUSH](https://github.com/AYUSH-PANDEY023.png)](https://github.com/AYUSH-PANDEY023) | [![RA-ONE](https://github.com/7thRA-ONE.png)](https://github.com/7thRA-ONE) | [![Sten-X](https://github.com/Sten-X.png)](https://github.com/Sten-X) |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [BM-X](https://github.com/spoiler121/BM-X)                                   | [AYUSH-PANDEY023](https://github.com/AYUSH-PANDEY023)                                  | [BM-X](https://github.com/spoiler121/BM-X)                                   |[BM-X](https://github.com/spoiler121/BM-X-X)                                   |
+| [BM-X](https://github.com/spoiler121/BM-X)                                   | [spoiler121](https://github.com/AYUSH-PANDEY023)                                  | [BM-X](https://github.com/spoiler121/BM-X)                                   |[BM-X](https://github.com/spoiler121/BM-X-X)                                   |
 | Owner, Main Developer, Maintainer                                     | Ideas, Testing                                                                         | Support Developer, Maintainer                                               | Support Developer, Maintainer (API)                                   |
 
 <br>
